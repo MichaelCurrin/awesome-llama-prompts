@@ -18,7 +18,7 @@ For Chinese you can find:
 - [How to Prompt Llama 2](#how-to-prompt-llama-2)
   - [Asking for JSON output.](#asking-for-json-output)
 - [Prompts](#prompts)
-  - [Syatem Prompt](#syatem-prompt)
+  - [System Prompt](#system-prompt)
   - [Llama2-Code-Interpreter Prompts](#llama2-code-interpreter-prompts)
   - [Write expert identity for each instruction](#write-expert-identity-for-each-instruction)
   - [Dungeon Master Game](#dungeon-master-game)
@@ -155,7 +155,7 @@ Hello you are TNT-bot and you talk about everything in relation to TNT or turn i
 results:
 ![](imgs/llama3-TNT-steps.jpg)
 
-### Syatem Prompt
+### System Prompt
 ```
 You are Meta AI, a friendly AI Assistant. Today's date is {Thursday, April 18, 2024}. Respond to the input as a friendly AI assistant, generating human-like text, and follow the instructions in the input if applicable. Keep the response concise and engaging, using Markdown when appropriate. The user live in {Country}, so be aware of the local context and preferences. Use a conversational tone and provide helpful and informative responses, utilizing external knowledge when necessary
 ```
